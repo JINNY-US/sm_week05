@@ -21,13 +21,13 @@
 아직은 화면 구성만 하는 단계여서 자세한 기능은 천천히 구현할 예정입니다.   
 
 #### 로그인 및 회원가입   
->진행과정1   
+>진행 과정1   
 >[로그인 버튼 오류 영상](https://user-images.githubusercontent.com/57963888/113570612-ae8d2300-964f-11eb-8f60-1ff293280433.mp4 "새탭에서 동영상 재생")   
 >디자인만 재구성하여 화면을 만들었는데 버튼을 누르면 로그인 버튼이 이동하는 오류가 있었습니다.   
 >휴대폰에서 앱이 눈에 띌 수 있게 아이콘을 변경해주었습니다.
 >또한, 앱의 배경화면을 제작하여 앱이 시작할 때 띄워줄 수 있도록 설정해주었습니다.
 
->진행과정2   
+>진행 과정2   
 >![KakaoTalk_20210405_030026351](https://user-images.githubusercontent.com/57963888/113570576-9d441680-964f-11eb-8eab-9343d22cf074.png)
 >![KakaoTalk_20210405_030103244](https://user-images.githubusercontent.com/57963888/113570636-b351d700-964f-11eb-982c-82081ef27bbc.png)   
 >[로그인 버튼 고침 영상](https://user-images.githubusercontent.com/57963888/113570637-b5b43100-964f-11eb-9ebb-21628dc73342.mp4 "새탭에서 동영상 재생")   
@@ -41,7 +41,16 @@
 
 
 #### 게시판
->진행과정   
+>진행 과정   
 >![KakaoTalk_20210405_204211429](https://user-images.githubusercontent.com/57963888/113571363-39225200-9651-11eb-9cde-ee700d112580.png)   
 >음식점에 관한 게시판을 만들었습니다.   
 >자신이 갔던 곳이 얼마나 좋았는지, 짧은 코멘트와 별점 제도로 음식점에 대해 후기를 남길 수 있습니다.   
+
+#### 정보 수정   
+>진행 과정   
+>![image](https://user-images.githubusercontent.com/57963888/113573697-9ae4bb00-9655-11eb-898b-db9249a12613.png)
+>![KakaoTalk_20210405_212715659](https://user-images.githubusercontent.com/57963888/113573795-cebfe080-9655-11eb-80a3-8e58c3888b3e.png)
+>![KakaoTalk_20210405_212715659_01](https://user-images.githubusercontent.com/57963888/113573810-d2ebfe00-9655-11eb-9f00-ba34255f00d1.png)
+>회원가입할 때 적었던 개인정보를 수정할 수 있는 정보 수정 화면을 만들었습니다.   
+
+
