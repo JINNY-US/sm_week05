@@ -48,7 +48,7 @@
 
 #### 정보 수정   
 >진행 과정   
->![image](https://user-images.githubusercontent.com/57963888/113573697-9ae4bb00-9655-11eb-898b-db9249a12613.png)
+>![KakaoTalk_20210405_213040116](https://user-images.githubusercontent.com/57963888/113574070-5574bd80-9656-11eb-9d81-b20c076a754b.png)
 >![KakaoTalk_20210405_212715659](https://user-images.githubusercontent.com/57963888/113573795-cebfe080-9655-11eb-80a3-8e58c3888b3e.png)
 >![KakaoTalk_20210405_212715659_01](https://user-images.githubusercontent.com/57963888/113573810-d2ebfe00-9655-11eb-9f00-ba34255f00d1.png)   
 >회원가입할 때 적었던 개인정보를 수정할 수 있는 정보 수정 화면을 만들었습니다.   
