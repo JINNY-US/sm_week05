@@ -53,4 +53,12 @@
 >![KakaoTalk_20210405_212715659_01](https://user-images.githubusercontent.com/57963888/113574186-9076f100-9656-11eb-8629-2db447053d33.png)     
 >회원가입할 때 적었던 개인정보를 수정할 수 있는 정보 수정 화면을 만들었습니다.   
 
+#### 예산 입력과 네비게이션 바   
+>진행 과정   
+>![KakaoTalk_20210405_212432481](https://user-images.githubusercontent.com/57963888/113574448-16933780-9657-11eb-96e1-23cabd4ac828.png)>   
+>예산과 인원, 시간대를 입력하는 화면을 만들었습니다.   
+  
+>[네비게이션 바 구현 영상](https://user-images.githubusercontent.com/57963888/113574420-0d09cf80-9657-11eb-8bde-dd5322aab1ba.mp4 "새 탭에서 동영상 재생")   
+>장소와 예산 등을 입력, 등록하는 기능의 화면을 구현한 것으로 NavigationView를 사용하여 해당 메뉴를 누르면 이동되게 하였습니다.   
+
 
