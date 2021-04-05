@@ -21,13 +21,13 @@
 
 #### 로그인 및 회원가입   
 >진행과정1   
->https://user-images.githubusercontent.com/57963888/113570612-ae8d2300-964f-11eb-8f60-1ff293280433.mp4   
+>[로그인 버튼 오류 영상](https://user-images.githubusercontent.com/57963888/113570612-ae8d2300-964f-11eb-8f60-1ff293280433.mp4 "새탭에서 동영상 재생")   
 >디자인만 재구성하여 화면을 만들었는데 버튼을 누르면 로그인 버튼이 이동하는 오류가 있었습니다.
 
 >진행과정2   
 >![KakaoTalk_20210405_030026351](https://user-images.githubusercontent.com/57963888/113570576-9d441680-964f-11eb-8eab-9343d22cf074.png)
->![KakaoTalk_20210405_030103244](https://user-images.githubusercontent.com/57963888/113570636-b351d700-964f-11eb-982c-82081ef27bbc.png)
->https://user-images.githubusercontent.com/57963888/113570637-b5b43100-964f-11eb-9ebb-21628dc73342.mp4   
+>![KakaoTalk_20210405_030103244](https://user-images.githubusercontent.com/57963888/113570636-b351d700-964f-11eb-982c-82081ef27bbc.png)   
+>[로그인 버튼 고침 영상](https://user-images.githubusercontent.com/57963888/113570637-b5b43100-964f-11eb-9ebb-21628dc73342.mp4 "새탭에서 동영상 재생")   
 >레이아웃을 잘못 설정하여 생긴 오류로, 레이아웃을 다시금 조정해주었습니다.   
 >두 번째 사진과 같이 고쳐주니 로그인 버튼이 이동하는 버그를 수정할 수 있었습니다.   
 >또한, 로그인과 회원가입 사이의 화면을 왔다갔다 이동할 수 있게 만들었습니다.   
