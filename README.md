@@ -35,9 +35,9 @@
 >두 번째 사진과 같이 고쳐주니 로그인 버튼이 이동하는 버그를 수정할 수 있었습니다.   
 >또한, 스플래쉬, 회원가입, 로그인, 메인 엑티비티랑 레이아웃을 만들어서 화면 간의 이동을 쉽게 만들었습니다.   
 >버튼 클릭에 따라 다른 화면을 불러올 수 있으며 
->>(activity_login) 로그인 버튼 -> activity_main(레이아웃)
->>(activity_login) 회원가입 ->  activity_join(레이아웃)
->>(activity_join) 가입 버튼 -> activity_login(레이아웃)
+>>(activity_login) 로그인 버튼 -> activity_main(레이아웃)   
+>>(activity_login) 회원가입 ->  activity_join(레이아웃)   
+>>(activity_join) 가입 버튼 -> activity_login(레이아웃)   
 
 
 #### 게시판
